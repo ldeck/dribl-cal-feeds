@@ -4,25 +4,25 @@ Subscribe to any team's fixture calendar. Feeds update automatically every 6 hou
 
 ## Calendars
 
-![Gunners U17 Boys Div 2 — 2026](https://img.shields.io/badge/📅-Gunners%20U17%20Boys%20Div%202%20—%202026-blue?style=for-the-badge)
+[![Gunners U17 Boys Div 2 — 2026](https://img.shields.io/badge/📅-Gunners%20U17%20Boys%20Div%202%20—%202026-blue?style=for-the-badge)](webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u17-boys-div2-2026.ics)
 
 ```
 webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u17-boys-div2-2026.ics
 ```
 
-![Gunners U12 Beginner Mixed — 2026](https://img.shields.io/badge/📅-Gunners%20U12%20Beginner%20Mixed%20—%202026-blue?style=for-the-badge)
+[![Gunners U12 Beginner Mixed — 2026](https://img.shields.io/badge/📅-Gunners%20U12%20Beginner%20Mixed%20—%202026-blue?style=for-the-badge)](webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u12-beginner-mixed-2026.ics)
 
 ```
 webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u12-beginner-mixed-2026.ics
 ```
 
-![Gunners U9 Intermediate Female — 2026](https://img.shields.io/badge/📅-Gunners%20U9%20Intermediate%20Female%20—%202026-blue?style=for-the-badge)
+[![Gunners U9 Intermediate Female — 2026](https://img.shields.io/badge/📅-Gunners%20U9%20Intermediate%20Female%20—%202026-blue?style=for-the-badge)](webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u9-intermediate-female-2026.ics)
 
 ```
 webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u9-intermediate-female-2026.ics
 ```
 
-![Gunners U8 Beginner Mixed — 2026](https://img.shields.io/badge/📅-Gunners%20U8%20Beginner%20Mixed%20—%202026-blue?style=for-the-badge)
+[![Gunners U8 Beginner Mixed — 2026](https://img.shields.io/badge/📅-Gunners%20U8%20Beginner%20Mixed%20—%202026-blue?style=for-the-badge)](webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u8-beginner-mixed-2026.ics)
 
 ```
 webcal://raw.githubusercontent.com/ldeck/dribl-cal-feeds/main/gunners-u8-beginner-mixed-2026.ics
