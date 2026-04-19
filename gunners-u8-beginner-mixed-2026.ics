@@ -24,33 +24,33 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gunners-ZNQOpzbkAd@dribl
-DTSTAMP:20260419T074025Z
+DTSTAMP:20260419T131643Z
 DTSTART:20260411T000000Z
 DTEND:20260411T010000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Camden Falcons Football
   Club U8 Beginner Black
-LOCATION:Raby Road\, Kearns\, Sydney\, Campbelltown City Council\, New Sout
- h Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: ZNQOpzbkAd\nRound: Round 1\nSync: 2026-04-19 07:40:24
+LOCATION:St Lawrence Avenue\, Kearns\, Sydney\, Campbelltown City Council\,
+  New South Wales\, 2558\, Australia
+DESCRIPTION:Dribl ID: ZNQOpzbkAd\nRound: Round 1\nSync: 2026-04-19 13:16:42
   UTC\nVenue: Clarke Oval (C)\nMap: https://www.google.com/maps/search/?api
  =1&query=-34.019078\,150.807793
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.019078;150.807793
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Raby Road,
-  Kearns, Sydney, Campbelltown City Council, New South Wales, 2558, Austral
- ia":geo:-34.019078,150.807793
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="St Lawrenc
+ e Avenue, Kearns, Sydney, Campbelltown City Council, New South Wales, 2558
+ , Australia":geo:-34.019078,150.807793
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZNQOpzbJMd@dribl
-DTSTAMP:20260419T074025Z
+DTSTAMP:20260419T131643Z
 DTSTART:20260417T230000Z
 DTEND:20260418T000000Z
 SUMMARY:Gunners U8: Appin United U8 Beginner White vs Gunners SC U8 Beginne
  r WHITE
 LOCATION:5\, Sportsground Parade\, Appin\, Wollondilly Shire Council\, New 
  South Wales\, 2560\, Australia
-DESCRIPTION:Dribl ID: ZNQOpzbJMd\nRound: Round 2\nSync: 2026-04-19 07:40:24
+DESCRIPTION:Dribl ID: ZNQOpzbJMd\nRound: Round 2\nSync: 2026-04-19 13:16:42
   UTC\nVenue: Gordon Lewis Oval (U8/9)\nMap: https://www.google.com/maps/se
  arch/?api=1&query=-34.1973\,150.78455
 STATUS:CONFIRMED
@@ -62,14 +62,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="5, Sportsg
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYW2PN@dribl
-DTSTAMP:20260419T074025Z
+DTSTAMP:20260419T131643Z
 DTSTART:20260501T230000Z
 DTEND:20260502T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Gregory Hills Football 
  Club U8 Beginner Black
 LOCATION:Willowdale Drive\, Denham Court\, Sydney\, Campbelltown City Counc
  il\, New South Wales\, 2565\, Australia
-DESCRIPTION:Dribl ID: ZKRypYW2PN\nRound: Round 3\nSync: 2026-04-19 07:40:24
+DESCRIPTION:Dribl ID: ZKRypYW2PN\nRound: Round 3\nSync: 2026-04-19 13:16:42
   UTC\nVenue: Willowdale Sports Field (Midi 4)\nMap: https://www.google.com
  /maps/search/?api=1&query=-33.979141\,150.813428
 STATUS:CONFIRMED
@@ -81,14 +81,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Willowdale
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYW9aN@dribl
-DTSTAMP:20260419T074025Z
+DTSTAMP:20260419T131643Z
 DTSTART:20260508T230000Z
 DTEND:20260509T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Camden Falcons Football
   Club U8 Beginner Red
 LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
  il\, New South Wales\, 2564\, Australia
-DESCRIPTION:Dribl ID: ZKRypYW9aN\nRound: Round 4\nSync: 2026-04-19 07:40:24
+DESCRIPTION:Dribl ID: ZKRypYW9aN\nRound: Round 4\nSync: 2026-04-19 13:16:42
   UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
