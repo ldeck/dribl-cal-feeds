@@ -24,33 +24,33 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gunners-jmazZVPlAN@dribl
-DTSTAMP:20260419T033311Z
+DTSTAMP:20260419T074023Z
 DTSTART:20260411T005000Z
 DTEND:20260411T015000Z
 SUMMARY:Gunners U9F: Gunners SC U9 Intermediate PINK vs Camden Falcons Foot
  ball Club U9 Intermediate Pink
-LOCATION:Kearns Avenue\, Kearns\, Sydney\, Campbelltown City Council\, New 
- South Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: jmazZVPlAN\nRound: Round 1\nSync: 2026-04-19 03:33:10
+LOCATION:Raby Road\, Kearns\, Sydney\, Campbelltown City Council\, New Sout
+ h Wales\, 2558\, Australia
+DESCRIPTION:Dribl ID: jmazZVPlAN\nRound: Round 1\nSync: 2026-04-19 07:40:22
   UTC\nVenue: Clarke Oval (E)\nMap: https://www.google.com/maps/search/?api
  =1&query=-34.019078\,150.807793
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.019078;150.807793
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Kearns Ave
- nue, Kearns, Sydney, Campbelltown City Council, New South Wales, 2558, Aus
- tralia":geo:-34.019078,150.807793
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Raby Road,
+  Kearns, Sydney, Campbelltown City Council, New South Wales, 2558, Austral
+ ia":geo:-34.019078,150.807793
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-8Nq5EWPV5N@dribl
-DTSTAMP:20260419T033311Z
+DTSTAMP:20260419T074023Z
 DTSTART:20260418T000000Z
 DTEND:20260418T010000Z
 SUMMARY:Gunners U9F: Camden Tigers U9 Intermediate Pink vs Gunners SC U9 In
  termediate PINK
 LOCATION:McCrae Drive\, Camden South\, Sydney\, New South Wales\, 2570\, Au
  stralia
-DESCRIPTION:Dribl ID: 8Nq5EWPV5N\nRound: Round 2\nSync: 2026-04-19 03:33:10
+DESCRIPTION:Dribl ID: 8Nq5EWPV5N\nRound: Round 2\nSync: 2026-04-19 07:40:22
   UTC\nVenue: Ron Dine Memorial Reserve (8 9 A)\nMap: https://www.google.co
  m/maps/search/?api=1&query=-34.07923\,150.68871
 STATUS:CONFIRMED
@@ -62,14 +62,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="McCrae Dri
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-EN2pjOEPrd@dribl
-DTSTAMP:20260419T033311Z
+DTSTAMP:20260419T074023Z
 DTSTART:20260501T235500Z
 DTEND:20260502T005500Z
 SUMMARY:Gunners U9F: Gunners SC U9 Intermediate PINK vs Eschol Park U9 Inte
  rmediate Pink
 LOCATION:Eschol Park\, Sydney\, Campbelltown City Council\, New South Wales
  \, 2558\, Australia
-DESCRIPTION:Dribl ID: EN2pjOEPrd\nRound: Round 3\nSync: 2026-04-19 03:33:10
+DESCRIPTION:Dribl ID: EN2pjOEPrd\nRound: Round 3\nSync: 2026-04-19 07:40:22
   UTC\nVenue: Eschol Park Sports Complex (U8/9 F2)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.03062\,150.81627
 STATUS:CONFIRMED
@@ -81,14 +81,14 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Eschol Par
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-yKJJoD8D6K@dribl
-DTSTAMP:20260419T033311Z
+DTSTAMP:20260419T074023Z
 DTSTART:20260509T015500Z
 DTEND:20260509T025500Z
 SUMMARY:Gunners U9F: Gunners SC U9 Intermediate PINK vs Campbelltown Cobras
   Soccer Club U9 Intermediate Purple
 LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
  il\, New South Wales\, 2564\, Australia
-DESCRIPTION:Dribl ID: yKJJoD8D6K\nRound: Round 4\nSync: 2026-04-19 03:33:10
+DESCRIPTION:Dribl ID: yKJJoD8D6K\nRound: Round 4\nSync: 2026-04-19 07:40:22
   UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
