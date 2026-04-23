@@ -24,14 +24,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gunners-Rdk2yE85zK@dribl
-DTSTAMP:20260423T080606Z
+DTSTAMP:20260423T140055Z
 DTSTART:20260411T050000Z
 DTEND:20260411T060000Z
 SUMMARY:Gunners U17B: Narellan Rangers U18 02 18 Blue vs Gunners SC U18 02 
  17's
 LOCATION:Hume Street\, Narellan\, Sydney\, New South Wales\, 2567\, Austral
  ia
-DESCRIPTION:Dribl ID: Rdk2yE85zK\nRound: Round 1\nSync: 2026-04-23 08:06:04
+DESCRIPTION:Dribl ID: Rdk2yE85zK\nRound: Round 1\nSync: 2026-04-23 14:00:54
   UTC\nVenue: Nott Oval (Synthetic)\nMap: https://www.google.com/maps/searc
  h/?api=1&query=-34.04508\,150.73689
 STATUS:CONFIRMED
@@ -43,51 +43,49 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Hume Stree
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-8Nq5E7DvgN@dribl
-DTSTAMP:20260423T080606Z
+DTSTAMP:20260423T140055Z
 DTSTART:20260418T031000Z
 DTEND:20260418T041000Z
 SUMMARY:Gunners U17B: Gunners SC U18 02 17's vs Eschol Park U18 02 17
-LOCATION:Eschol Park\, Sydney\, Campbelltown City Council\, New South Wales
- \, 2558\, Australia
-DESCRIPTION:Dribl ID: 8Nq5E7DvgN\nRound: Round 2\nSync: 2026-04-23 08:06:04
+LOCATION:Eschol Park\, Sydney\, New South Wales\, 2558\, Australia
+DESCRIPTION:Dribl ID: 8Nq5E7DvgN\nRound: Round 2\nSync: 2026-04-23 14:00:54
   UTC\nVenue: Eschol Park Sports Complex (Field 1)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.03062\,150.81627
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.03062;150.81627
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Eschol Par
- k, Sydney, Campbelltown City Council, New South Wales, 2558, Australia":ge
- o:-34.03062,150.81627
+ k, Sydney, New South Wales, 2558, Australia":geo:-34.03062,150.81627
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-WdgqJpzZoN@dribl
-DTSTAMP:20260423T080606Z
+DTSTAMP:20260423T140055Z
 DTSTART:20260502T020000Z
 DTEND:20260502T030000Z
 SUMMARY:Gunners U17B: None vs Gunners SC U18 02 17's
 LOCATION:
-DESCRIPTION:Dribl ID: WdgqJpzZoN\nRound: Round 3\nSync: 2026-04-23 08:06:04
+DESCRIPTION:Dribl ID: WdgqJpzZoN\nRound: Round 3\nSync: 2026-04-23 14:00:54
   UTC\nVenue: None
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-JmXWx4eQzd@dribl
-DTSTAMP:20260423T080606Z
+DTSTAMP:20260423T140055Z
 DTSTART:20260509T033500Z
 DTEND:20260509T043500Z
 SUMMARY:Gunners U17B: Gunners SC U18 02 17's vs Narellan Rangers U18 02 18 
  Red
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
- il\, New South Wales\, 2564\, Australia
-DESCRIPTION:Dribl ID: JmXWx4eQzd\nRound: Round 4\nSync: 2026-04-23 08:06:04
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
+ , Australia
+DESCRIPTION:Dribl ID: JmXWx4eQzd\nRound: Round 4\nSync: 2026-04-23 14:00:54
   UTC\nVenue: Bensley Road Sporting Complex (Field 2)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
- 2564, Australia":geo:-34.001529,150.886344
+ ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
+ 1529,150.886344
 END:VEVENT
 END:VCALENDAR
