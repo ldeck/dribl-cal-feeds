@@ -24,335 +24,303 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gunners-ZNQOpzbkAd@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260411T000000Z
 DTEND:20260411T010000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Camden Falcons Football
   Club U8 Beginner Black
-LOCATION:Kearns Avenue\, Kearns\, Sydney\, Campbelltown City Council\, New 
- South Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: ZNQOpzbkAd\nRound: Round 1\nSync: 2026-04-28 19:50:43
+LOCATION:Clarke Oval
+DESCRIPTION:Dribl ID: ZNQOpzbkAd\nRound: Round 1\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Clarke Oval (C)\nMap: https://www.google.com/maps/search/?api
  =1&query=-34.019078\,150.807793
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.019078;150.807793
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Kearns Ave
- nue, Kearns, Sydney, Campbelltown City Council, New South Wales, 2558, Aus
- tralia":geo:-34.019078,150.807793
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Clarke Ova
+ l":geo:-34.019078,150.807793
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZNQOpzbJMd@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260417T230000Z
 DTEND:20260418T000000Z
 SUMMARY:Gunners U8: Appin United U8 Beginner White vs Gunners SC U8 Beginne
  r WHITE
-LOCATION:5\, Sportsground Parade\, Appin\, Wollondilly Shire Council\, New 
- South Wales\, 2560\, Australia
-DESCRIPTION:Dribl ID: ZNQOpzbJMd\nRound: Round 2\nSync: 2026-04-28 19:50:43
+LOCATION:Gordon Lewis Oval
+DESCRIPTION:Dribl ID: ZNQOpzbJMd\nRound: Round 2\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Gordon Lewis Oval (U8/9)\nMap: https://www.google.com/maps/se
  arch/?api=1&query=-34.1973\,150.78455
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.1973;150.78455
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="5, Sportsg
- round Parade, Appin, Wollondilly Shire Council, New South Wales, 2560, Aus
- tralia":geo:-34.1973,150.78455
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Gordon Lew
+ is Oval":geo:-34.1973,150.78455
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYW2PN@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260501T230000Z
 DTEND:20260502T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Gregory Hills Football 
  Club U8 Beginner Black
-LOCATION:Willowdale Drive\, Denham Court\, Sydney\, New South Wales\, 2565\
- , Australia
-DESCRIPTION:Dribl ID: ZKRypYW2PN\nRound: Round 3\nSync: 2026-04-28 19:50:43
+LOCATION:Willowdale Sports Field
+DESCRIPTION:Dribl ID: ZKRypYW2PN\nRound: Round 3\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Willowdale Sports Field (Midi 4)\nMap: https://www.google.com
  /maps/search/?api=1&query=-33.979141\,150.813428
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-33.979141;150.813428
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Willowdale
-  Drive, Denham Court, Sydney, New South Wales, 2565, Australia":geo:-33.97
- 9141,150.813428
+  Sports Field":geo:-33.979141,150.813428
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYW9aN@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260508T230000Z
 DTEND:20260509T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Camden Falcons Football
   Club U8 Beginner Red
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: ZKRypYW9aN\nRound: Round 4\nSync: 2026-04-28 19:50:43
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: ZKRypYW9aN\nRound: Round 4\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-yKJJo5LlbK@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260515T230000Z
 DTEND:20260516T000000Z
 SUMMARY:Gunners U8: Oran Park Rovers U8 Beginner Grey vs Gunners SC U8 Begi
  nner WHITE
-LOCATION:Skaife Street\, Oran Park\, Sydney\, New South Wales\, 2570\, Aust
- ralia
-DESCRIPTION:Dribl ID: yKJJo5LlbK\nRound: Round 5\nSync: 2026-04-28 19:50:43
+LOCATION:Doohan Reserve
+DESCRIPTION:Dribl ID: yKJJo5LlbK\nRound: Round 5\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Doohan Reserve (DR14)\nMap: https://www.google.com/maps/searc
  h/?api=1&query=-34.009959\,150.734006
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.009959;150.734006
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Skaife Str
- eet, Oran Park, Sydney, New South Wales, 2570, Australia":geo:-34.009959,1
- 50.734006
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Doohan Res
+ erve":geo:-34.009959,150.734006
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYMPGN@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260522T230000Z
 DTEND:20260523T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Campbelltown Cobras Soc
  cer Club U8 Beginner Yellow
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: ZKRypYMPGN\nRound: Round 6\nSync: 2026-04-28 19:50:43
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: ZKRypYMPGN\nRound: Round 6\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-WdgqJjeloN@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260529T230000Z
 DTEND:20260530T000000Z
 SUMMARY:Gunners U8: Eschol Park U8 Beginner Black vs Gunners SC U8 Beginner
   WHITE
-LOCATION:Eschol Park\, Sydney\, New South Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: WdgqJjeloN\nRound: Round 7\nSync: 2026-04-28 19:50:43
+LOCATION:Eschol Park Sports Complex
+DESCRIPTION:Dribl ID: WdgqJjeloN\nRound: Round 7\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Eschol Park Sports Complex (U8/9 F2)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.03062\,150.81627
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.03062;150.81627
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Eschol Par
- k, Sydney, New South Wales, 2558, Australia":geo:-34.03062,150.81627
+ k Sports Complex":geo:-34.03062,150.81627
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-JmXWxJqeLd@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260612T230000Z
 DTEND:20260613T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Oran Park Rovers U8 Beg
  inner Yellow
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: JmXWxJqeLd\nRound: Round 8\nSync: 2026-04-28 19:50:43
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: JmXWxJqeLd\nRound: Round 8\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.google
  .com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-WdgqJjeVqN@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260620T000500Z
 DTEND:20260620T010500Z
 SUMMARY:Gunners U8: Campbelltown Cobras Soccer Club U8 Beginner Blue vs Gun
  ners SC U8 Beginner WHITE
-LOCATION:George Street\, Sydney\, Campbelltown City Council\, New South Wal
- es\, 2560\, Australia
-DESCRIPTION:Dribl ID: WdgqJjeVqN\nRound: Round 9\nSync: 2026-04-28 19:50:43
+LOCATION:Hurley Park
+DESCRIPTION:Dribl ID: WdgqJjeVqN\nRound: Round 9\nSync: 2026-04-29 03:43:25
   UTC\nVenue: Hurley Park (U8/9)\nMap: https://www.google.com/maps/search/?
  api=1&query=-34.074903\,150.818152
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.074903;150.818152
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="George Str
- eet, Sydney, Campbelltown City Council, New South Wales, 2560, Australia":
- geo:-34.074903,150.818152
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Hurley Par
+ k":geo:-34.074903,150.818152
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-xm8ZWx609K@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260626T230000Z
 DTEND:20260627T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Ingleburn Eagles Soccer
   Club U8 Beginner Blue
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: xm8ZWx609K\nRound: Round 10\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: xm8ZWx609K\nRound: Round 10\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
  e.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-Rdk2yX5WVK@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260703T230000Z
 DTEND:20260704T000000Z
 SUMMARY:Gunners U8: Oran Park Rovers U8 Beginner Black vs Gunners SC U8 Beg
  inner WHITE
-LOCATION:Skaife Street\, Oran Park\, Sydney\, New South Wales\, 2570\, Aust
- ralia
-DESCRIPTION:Dribl ID: Rdk2yX5WVK\nRound: Round 11\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Doohan Reserve (DR11)\nMap: https://www.google.com/maps/sear
+LOCATION:Doohan Reserve
+DESCRIPTION:Dribl ID: Rdk2yX5WVK\nRound: Round 11\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Doohan Reserve (DR11)\nMap: https://www.google.com/maps/sear
  ch/?api=1&query=-34.009959\,150.734006
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.009959;150.734006
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Skaife Str
- eet, Oran Park, Sydney, New South Wales, 2570, Australia":geo:-34.009959,1
- 50.734006
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Doohan Res
+ erve":geo:-34.009959,150.734006
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-vdWDRJx6Em@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260710T230000Z
 DTEND:20260711T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Bradbury Ambarvale U8 B
  eginner GREEN
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: vdWDRJx6Em\nRound: Round 12\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: vdWDRJx6Em\nRound: Round 12\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
  e.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-Rdk2yX5jWK@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260717T230000Z
 DTEND:20260718T000000Z
 SUMMARY:Gunners U8: Burragorang District Soccer Club U8 Beginner Blue vs Gu
  nners SC U8 Beginner WHITE
-LOCATION:Burragorang Road\, Belimbla Park\, Oakdale\, Wollondilly Shire Cou
- ncil\, New South Wales\, 2570\, Australia
-DESCRIPTION:Dribl ID: Rdk2yX5jWK\nRound: Round 13\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Willis Park (Field 3 U8/9)\nMap: https://www.google.com/maps
+LOCATION:Willis Park
+DESCRIPTION:Dribl ID: Rdk2yX5jWK\nRound: Round 13\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Willis Park (Field 3 U8/9)\nMap: https://www.google.com/maps
  /search/?api=1&query=-34.079505\,150.5108
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.079505;150.5108
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Burragoran
- g Road, Belimbla Park, Oakdale, Wollondilly Shire Council, New South Wales
- , 2570, Australia":geo:-34.079505,150.5108
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Willis Par
+ k":geo:-34.079505,150.5108
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-vdWDRJGJBm@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260724T230000Z
 DTEND:20260725T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Gregory Hills Football 
  Club U8 Beginner Yellow
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: vdWDRJGJBm\nRound: Round 14\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: vdWDRJGJBm\nRound: Round 14\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
  e.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-8Nq5EXgE5N@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260801T000500Z
 DTEND:20260801T010500Z
 SUMMARY:Gunners U8: Camden Tigers U8 Beginner U8 Yellow vs Gunners SC U8 Be
  ginner WHITE
-LOCATION:McCrae Drive\, Camden South\, Sydney\, New South Wales\, 2570\, Au
- stralia
-DESCRIPTION:Dribl ID: 8Nq5EXgE5N\nRound: Round 15\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Ron Dine Memorial Reserve (8 9 B)\nMap: https://www.google.c
+LOCATION:Ron Dine Memorial Reserve
+DESCRIPTION:Dribl ID: 8Nq5EXgE5N\nRound: Round 15\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Ron Dine Memorial Reserve (8 9 B)\nMap: https://www.google.c
  om/maps/search/?api=1&query=-34.07923\,150.68871
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.07923;150.68871
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="McCrae Dri
- ve, Camden South, Sydney, New South Wales, 2570, Australia":geo:-34.07923,
- 150.68871
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Ron Dine M
+ emorial Reserve":geo:-34.07923,150.68871
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-JmXWxJDAld@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260807T230000Z
 DTEND:20260808T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Tahmoor Soccer Club U8 
  Beginner Blue
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: JmXWxJDAld\nRound: Round 16\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: JmXWxJDAld\nRound: Round 16\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
  e.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-xm8ZWxV7LK@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260814T230000Z
 DTEND:20260815T000000Z
 SUMMARY:Gunners U8: None vs Gunners SC U8 Beginner WHITE
 LOCATION:
-DESCRIPTION:Dribl ID: xm8ZWxV7LK\nRound: Round 17\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: None
+DESCRIPTION:Dribl ID: xm8ZWxV7LK\nRound: Round 17\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: None
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-Rdk2yXj9RK@dribl
-DTSTAMP:20260428T195044Z
+DTSTAMP:20260429T034341Z
 DTSTART:20260821T230000Z
 DTEND:20260822T000000Z
 SUMMARY:Gunners U8: Gunners SC U8 Beginner WHITE vs Campbelltown Uniting Ch
  urch Soccer Club U8 Beginner Blue
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: Rdk2yXj9RK\nRound: Round 18\nSync: 2026-04-28 19:50:4
- 3 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
+LOCATION:Bensley Road Sporting Complex
+DESCRIPTION:Dribl ID: Rdk2yXj9RK\nRound: Round 18\nSync: 2026-04-29 03:43:2
+ 5 UTC\nVenue: Bensley Road Sporting Complex (U8/9)\nMap: https://www.googl
  e.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad Sporting Complex":geo:-34.001529,150.886344
 END:VEVENT
 END:VCALENDAR
