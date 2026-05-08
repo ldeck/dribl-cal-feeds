@@ -24,14 +24,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gunners-emAn5agzQN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260411T032000Z
 DTEND:20260411T042000Z
 SUMMARY:Gunners U12: Narellan Rangers U12 Beginner OR vs Gunners SC U12 Beg
  inner WHITE
 LOCATION:Holdsworth Drive\, Narellan Vale\, Sydney\, New South Wales\, 2567
  \, Australia
-DESCRIPTION:Dribl ID: emAn5agzQN\nRound: Round 1\nSync: 2026-05-08 14:05:26
+DESCRIPTION:Dribl ID: emAn5agzQN\nRound: Round 1\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Liquidamber Reserve (U11)\nMap: https://www.google.com/maps/s
  earch/?api=1&query=-34.05005\,150.74662
 STATUS:CONFIRMED
@@ -43,31 +43,33 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Holdsworth
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-Rdk2yXQ3EK@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260418T001000Z
 DTEND:20260418T011000Z
 SUMMARY:Gunners U12: Picton Rangers U12 Beginner Maroon vs Gunners SC U12 B
  eginner WHITE
-LOCATION:Fairleys Road\, Picton\, New South Wales\, 2571\, Australia
-DESCRIPTION:Dribl ID: Rdk2yXQ3EK\nRound: Round 2\nSync: 2026-05-08 14:05:26
+LOCATION:Fairleys Road\, Picton\, Wollondilly Shire Council\, New South Wal
+ es\, 2571\, Australia
+DESCRIPTION:Dribl ID: Rdk2yXQ3EK\nRound: Round 2\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Picton Sportsground (2A)\nMap: https://www.google.com/maps/se
  arch/?api=1&query=-34.157456\,150.605115
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.157456;150.605115
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Fairleys R
- oad, Picton, New South Wales, 2571, Australia":geo:-34.157456,150.605115
+ oad, Picton, Wollondilly Shire Council, New South Wales, 2571, Australia":
+ geo:-34.157456,150.605115
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-lNbJZa40pN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260502T021500Z
 DTEND:20260502T031500Z
 SUMMARY:Gunners U12: Oran Park Rovers U12 Beginner Aqua vs Gunners SC U12 B
  eginner WHITE
 LOCATION:Skaife Street\, Oran Park\, Sydney\, New South Wales\, 2570\, Aust
  ralia
-DESCRIPTION:Dribl ID: lNbJZa40pN\nRound: Round 3\nSync: 2026-05-08 14:05:26
+DESCRIPTION:Dribl ID: lNbJZa40pN\nRound: Round 3\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Doohan Reserve (DR16)\nMap: https://www.google.com/maps/searc
  h/?api=1&query=-34.009959\,150.734006
 STATUS:CONFIRMED
@@ -79,51 +81,49 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Skaife Str
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-xm8ZWxPRLK@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260509T011500Z
 DTEND:20260509T021500Z
 SUMMARY:Gunners U12: Wilton Warriors Football Club U12 Beginner Black vs Gu
  nners SC U12 Beginner WHITE
-LOCATION:Campsie Street\, Wilton\, Wollondilly Shire Council\, New South Wa
- les\, 2571\, Australia
-DESCRIPTION:Dribl ID: xm8ZWxPRLK\nRound: Round 4\nSync: 2026-05-08 14:05:26
+LOCATION:Campsie Street\, Wilton\, New South Wales\, 2571\, Australia
+DESCRIPTION:Dribl ID: xm8ZWxPRLK\nRound: Round 4\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Wilton Recreational Reserve (U10/12 Field 1)\nMap: https://ww
  w.google.com/maps/search/?api=1&query=-34.2346\,150.69524
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.2346;150.69524
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Campsie St
- reet, Wilton, Wollondilly Shire Council, New South Wales, 2571, Australia"
- :geo:-34.2346,150.69524
+ reet, Wilton, New South Wales, 2571, Australia":geo:-34.2346,150.69524
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ld45qX7O2m@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260516T033000Z
 DTEND:20260516T043000Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Bradbury Ambarvale U1
  2 Beginner WHITE
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: ld45qX7O2m\nRound: Round 5\nSync: 2026-05-08 14:05:26
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: ld45qX7O2m\nRound: Round 5\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goog
  le.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-RNEg5QXWgd@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260523T011000Z
 DTEND:20260523T021000Z
 SUMMARY:Gunners U12: Eschol Park U12 Beginner GOLD vs Gunners SC U12 Beginn
  er WHITE
 LOCATION:Eschol Park\, Sydney\, New South Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: RNEg5QXWgd\nRound: Round 6\nSync: 2026-05-08 14:05:26
+DESCRIPTION:Dribl ID: RNEg5QXWgd\nRound: Round 6\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Eschol Park Sports Complex (U10/12 Field A)\nMap: https://www
  .google.com/maps/search/?api=1&query=-34.03062\,150.81627
 STATUS:CONFIRMED
@@ -134,65 +134,65 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Eschol Par
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-BdDb5DYZGN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260530T012000Z
 DTEND:20260530T022000Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Eschol Park U12 Begin
  ner AQUA
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: BdDb5DYZGN\nRound: Round 7\nSync: 2026-05-08 14:05:26
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: BdDb5DYZGN\nRound: Round 7\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goog
  le.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-ZKRypYBZAN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260613T014500Z
 DTEND:20260613T024500Z
 SUMMARY:Gunners U12: None vs Gunners SC U12 Beginner WHITE
 LOCATION:
-DESCRIPTION:Dribl ID: ZKRypYBZAN\nRound: Round 8\nSync: 2026-05-08 14:05:26
+DESCRIPTION:Dribl ID: ZKRypYBZAN\nRound: Round 8\nSync: 2026-05-08 19:28:28
   UTC\nVenue: None
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-xm8ZWxPnVK@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260620T000500Z
 DTEND:20260620T010500Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Camden Falcons Footba
  ll Club U12 Beginner Black
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: xm8ZWxPnVK\nRound: Round 9\nSync: 2026-05-08 14:05:26
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: xm8ZWxPnVK\nRound: Round 9\nSync: 2026-05-08 19:28:28
   UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goog
  le.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-emAn5a6pBN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260627T022500Z
 DTEND:20260627T032500Z
 SUMMARY:Gunners U12: Oran Park Rovers U12 Beginner White vs Gunners SC U12 
  Beginner WHITE
 LOCATION:Skaife Street\, Oran Park\, Sydney\, New South Wales\, 2570\, Aust
  ralia
-DESCRIPTION:Dribl ID: emAn5a6pBN\nRound: Round 10\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Doohan Reserve (DR16)\nMap: https://www.google.com/maps/sear
+DESCRIPTION:Dribl ID: emAn5a6pBN\nRound: Round 10\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Doohan Reserve (DR16)\nMap: https://www.google.com/maps/sear
  ch/?api=1&query=-34.009959\,150.734006
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -203,33 +203,33 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Skaife Str
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-vdWDRJZMnm@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260704T001000Z
 DTEND:20260704T011000Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Narellan Rangers U12 
  Beginner RE
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: vdWDRJZMnm\nRound: Round 11\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: vdWDRJZMnm\nRound: Round 11\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-jmazZpgk6N@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260711T011000Z
 DTEND:20260711T021000Z
 SUMMARY:Gunners U12: Eschol Park U12 Beginner MAROON vs Gunners SC U12 Begi
  nner WHITE
 LOCATION:Eschol Park\, Sydney\, New South Wales\, 2558\, Australia
-DESCRIPTION:Dribl ID: jmazZpgk6N\nRound: Round 12\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Eschol Park Sports Complex (U10/12 Field B)\nMap: https://ww
+DESCRIPTION:Dribl ID: jmazZpgk6N\nRound: Round 12\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Eschol Park Sports Complex (U10/12 Field B)\nMap: https://ww
  w.google.com/maps/search/?api=1&query=-34.03062\,150.81627
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -239,34 +239,34 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Eschol Par
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-RNEg5Q1MMd@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260718T022500Z
 DTEND:20260718T032500Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Minto District Soccer
   Club U12 Beginner
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: RNEg5Q1MMd\nRound: Round 13\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: RNEg5Q1MMd\nRound: Round 13\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-BdDb5DMP3N@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260725T034000Z
 DTEND:20260725T044000Z
 SUMMARY:Gunners U12: Gregory Hills Football Club U12 Beginner Yellow vs Gun
  ners SC U12 Beginner WHITE
 LOCATION:Firewheel Circuit\, Gregory Hills\, Sydney\, New South Wales\, 255
  7\, Australia
-DESCRIPTION:Dribl ID: BdDb5DMP3N\nRound: Round 14\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Cunningham Park (1A)\nMap: https://www.google.com/maps/searc
+DESCRIPTION:Dribl ID: BdDb5DMP3N\nRound: Round 14\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Cunningham Park (1A)\nMap: https://www.google.com/maps/searc
  h/?api=1&query=-34.02191\,150.78462
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -277,72 +277,72 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Firewheel
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-yKJJo5neXK@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260801T011000Z
 DTEND:20260801T021000Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Tahmoor Soccer Club U
  12 Beginner Green
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: yKJJo5neXK\nRound: Round 15\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: yKJJo5neXK\nRound: Round 15\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-nmYnwJoRrN@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260808T011000Z
 DTEND:20260808T021000Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Narellan Rangers U12 
  Beginner OR
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: nmYnwJoRrN\nRound: Round 16\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: nmYnwJoRrN\nRound: Round 16\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-vdWDRJZrGm@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260815T000500Z
 DTEND:20260815T010500Z
 SUMMARY:Gunners U12: Gunners SC U12 Beginner WHITE vs Picton Rangers U12 Be
  ginner Maroon
-LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, New South Wales\, 2564\
- , Australia
-DESCRIPTION:Dribl ID: vdWDRJZrGm\nRound: Round 17\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
+LOCATION:Bensley Road\, Macquarie Fields\, Sydney\, Campbelltown City Counc
+ il\, New South Wales\, 2564\, Australia
+DESCRIPTION:Dribl ID: vdWDRJZrGm\nRound: Round 17\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Bensley Road Sporting Complex (U10/12)\nMap: https://www.goo
  gle.com/maps/search/?api=1&query=-34.001529\,150.886344
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 GEO:-34.001529;150.886344
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=70;X-TITLE="Bensley Ro
- ad, Macquarie Fields, Sydney, New South Wales, 2564, Australia":geo:-34.00
- 1529,150.886344
+ ad, Macquarie Fields, Sydney, Campbelltown City Council, New South Wales, 
+ 2564, Australia":geo:-34.001529,150.886344
 END:VEVENT
 BEGIN:VEVENT
 UID:gunners-jmazZpgY7N@dribl
-DTSTAMP:20260508T140527Z
+DTSTAMP:20260508T192829Z
 DTSTART:20260822T021500Z
 DTEND:20260822T031500Z
 SUMMARY:Gunners U12: Oran Park Rovers U12 Beginner Aqua vs Gunners SC U12 B
  eginner WHITE
 LOCATION:Skaife Street\, Oran Park\, Sydney\, New South Wales\, 2570\, Aust
  ralia
-DESCRIPTION:Dribl ID: jmazZpgY7N\nRound: Round 18\nSync: 2026-05-08 14:05:2
- 6 UTC\nVenue: Doohan Reserve (DR16)\nMap: https://www.google.com/maps/sear
+DESCRIPTION:Dribl ID: jmazZpgY7N\nRound: Round 18\nSync: 2026-05-08 19:28:2
+ 8 UTC\nVenue: Doohan Reserve (DR16)\nMap: https://www.google.com/maps/sear
  ch/?api=1&query=-34.009959\,150.734006
 STATUS:CONFIRMED
 TRANSP:OPAQUE
